@@ -16,9 +16,9 @@ Compliance case tracker — a desktop application for managing DR/SA cases with 
 
 ## Screenshots
 
-![Data Entry]<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/3d92a4b1-5a21-4553-a401-045405ad4184" />
+Data Entry<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/3d92a4b1-5a21-4553-a401-045405ad4184" />
 
-![Data View]<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/d5646ad1-6e67-4493-a008-5bd298b49723" />
+Data View<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/d5646ad1-6e67-4493-a008-5bd298b49723" />
 
 
 ## Setup
@@ -52,7 +52,6 @@ Create the table using `schema.sql`, then configure the connection in `.env` (se
 | `config.py` | Reads DB credentials from `.env` |
 | `schema.sql` | Table creation script |
 | `build.bat` | Builds SELOR.exe (Windows) |
-| `SELOR_queries.sql` | Useful queries for MySQL Workbench (data corrections, deletions) |
 | `.env.example` | Template for database credentials |
 
 ## License
