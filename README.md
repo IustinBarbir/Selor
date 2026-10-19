@@ -16,7 +16,10 @@ Compliance case tracker — a desktop application for managing DR/SA cases with 
 
 ## Screenshots
 
-*Add screenshots here*
+![Data Entry]<img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/3d92a4b1-5a21-4553-a401-045405ad4184" />
+
+![Data View]<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/d5646ad1-6e67-4493-a008-5bd298b49723" />
+
 
 ## Setup
 
