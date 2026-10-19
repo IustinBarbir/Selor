@@ -6,13 +6,13 @@ Compliance case tracker — a desktop application for managing DR/SA cases with 
 
 ## Features
 
-- **Data Entry** — submit new cases with validation, auto-populated fields, and calendar date pickers
-- **Data View** — search, filter, and browse cases with multiple filter criteria (status, marketplace, date ranges, certificate validity, etc.)
-- **Excel Export** — export filtered results to `.xlsx` (full dataset, not limited to on-screen rows)
-- **Copy to Clipboard** — right-click any row to copy it, double-click a cell to copy its value
-- **Historical / Latest Certificate** — toggle between showing all records or only the most recent certificate per partner
-- **Responsive** — scrollable layout that works on smaller screens (laptops)
-- **Custom UI** — gradient header, card-based layout, alternating row colors, Segoe UI typography (all pure tkinter/ttk, no extra GUI libraries)
+- **Data Entry** - submit new cases with validation, auto-populated fields, and calendar date pickers
+- **Data View** - search, filter, and browse cases with multiple filter criteria (status, marketplace, date ranges, certificate validity, etc.)
+- **Excel Export** - export filtered results to `.xlsx` (full dataset, not limited to on-screen rows)
+- **Copy to Clipboard** - right-click any row to copy it, double-click a cell to copy its value
+- **Historical / Latest Certificate** - toggle between showing all records or only the most recent certificate per partner
+- **Responsive** - scrollable layout that works on smaller screens (laptops)
+- **Custom UI** - gradient header, card-based layout, alternating row colors, Segoe UI typography (all pure tkinter/ttk, no extra GUI libraries)
 
 ## Screenshots
 
